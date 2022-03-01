@@ -56,19 +56,19 @@ Communication is key to both successful and sustainable code. However it's impor
 
 #### Acceptable Conduct
 
-- Team members communitcating in a professional and respectful manner. 
-- Team members should use words like "Please" and "Thank you".
-- Team members will allow other members and teams speak freely. 
+- Students communicating in a professional and respectful manner.
+- Students should use words like "Please" and "Thank you".
+- Students will allow other members and teams speak freely.
 
 #### Unacceptable Conduct
 
-- Team members communicate in a way which offends or disrespects others. 
-- Team members constantly interrupting others - we all have something to share. 
-- Team members show signs of passive aggresive behaivor. Working as a team means keeping emotions out of work.
+- Students should not communicate in a way that offends or disrespects others.
+- Students constantly interrupting others - we all have something to share.
+- Students show signs of passive aggressive behavior. Working as a team means keeping emotions out of work.
 
 ### Participation
 
-Participation for students will be a multidide of factors. We all have bad days and  we all have topics we know more or less about but how many times a student speaks a day will not soley make up their participation. It is being prepared each day, having done the homework, coming to class with an open mind to learn and making an effort to be apart of either small group or large group conversations that will reflect students participation.
+Participation for students will be a multitude of factors. We all have bad days and  we all have topics we know more or less about but how many times a student speaks a day will not solely make up their participation. It is being prepared each day, having done the homework, coming to class with an open mind to learn and making an effort to be apart of either small group or large group conversations that will reflect students participation.
 
 #### Acceptable Conduct
 
@@ -80,7 +80,7 @@ Participation for students will be a multidide of factors. We all have bad days 
 
 - Students will not interrupt their peers.
 - Students will not skip reading or assignments in general.
-- Students will not disrepect peer contributions in work, code, speech, or otherwise.
+- Students will not disrespect peer contributions in work, code, speech, or otherwise.
 
 ### Decisions
 
