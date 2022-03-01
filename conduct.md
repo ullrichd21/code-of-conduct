@@ -56,9 +56,9 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Team members communitcating in a professional and respectful manner. 
+- Team members should use words like "Please" and "Thank you".
+- Team members will allow other members and teams speak freely. 
 
 #### Unacceptable Conduct
 
