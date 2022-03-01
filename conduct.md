@@ -68,13 +68,13 @@ TODO: Write an introductory paragraph.
 
 ### Participation
 
-TODO: Write an introductory paragraph.
+Participation for students will be a multidide of factors, we all have bad days, we all have topics we know more or less about, but it is being prepared each day having done the homework, coming to class with an open mind to learn and making an effort to be apart of either small group or large group conversations that will reflect students participation.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students will respect all students opinions.
+- Students will show up to every class ready to learn and engage with the class.
+- Students participation will be a combination of small group effort and/or large group discussion effort.
 
 #### Unacceptable Conduct
 
