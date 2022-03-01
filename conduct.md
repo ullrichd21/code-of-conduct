@@ -78,9 +78,9 @@ TODO: Write an introductory paragraph.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students will not interrupt their peers.
+- Students will not skip reading or assignments in general.
+- Students will not disrepect peer contributions in work, code, speech, or otherwise.
 
 ### Decisions
 
