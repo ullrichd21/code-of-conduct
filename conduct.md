@@ -56,15 +56,15 @@ Communication is key to both successful and sustainable code. However it's impor
 
 #### Acceptable Conduct
 
-- Students communicating in a professional and respectful manner.
+- Students should communicate in a professional and respectful manner.
 - Students should use words like "Please" and "Thank you".
 - Students will allow other members and teams speak freely.
 
 #### Unacceptable Conduct
 
 - Students should not communicate in a way that offends or disrespects others.
-- Students constantly interrupting others - we all have something to share.
-- Students show signs of passive aggressive behavior. Working as a team means keeping emotions out of work.
+- Students should not interrupt others - we all have something to share.
+- Students should not show signs of passive aggressive behavior. Working as a team means keeping emotions out of work.
 
 ### Participation
 
