@@ -62,9 +62,9 @@ TODO: Write an introductory paragraph.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+-Team members communicate in a way which offends or disrespects others. 
+- Team members constantly interrupting others - we all have something to share. 
+- Team members show signs of passive aggresive behaivor. Working as a team means keeping emotions out of work.
 
 ### Participation
 
