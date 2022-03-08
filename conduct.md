@@ -80,7 +80,7 @@ Participation for students will be based on a multitude of factors. We all have 
 
 - Students will not interrupt their peers.
 - Students will not skip reading or assignments.
-- Students will not disrespect peer contributions in work, code, speech, or otherwise. For example, ignoring certain students in your group or belittling the ideas of others.
+- Students will not disrespect peer contributions in work, code, speech, or otherwise by, for example, ignoring certain students in their group or belittling the ideas of others.
 
 ### Decisions
 
