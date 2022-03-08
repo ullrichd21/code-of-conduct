@@ -68,7 +68,7 @@ Communication is key to both successful and sustainable code. However, it is imp
 
 ### Participation
 
-Participation for students will be based on a multitude of factors. We all have bad days and we all have topics we know more or less about, but how many times a student speaks a day will not solely make up their participation. It is being prepared each day, having done the prerequisite work, coming to class with an open mind to learn, and making an effort to be apart of either small group or large group conversations that will reflect students participation.
+Participation for students will be based on a multitude of factors. We all have bad days and we all have topics we know more or less about, but how many times a student speaks a day will not solely make up their participation. It is being prepared each day, having done the prerequisite work, coming to class with an open mind to learn, and making an effort to be a part of either small group or large group conversations that will reflect students participation.
 
 #### Acceptable Conduct
 
